@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "CustomFit AI",
+    "subtitle": "Built with Zara",
+    "description": "CustomFit AI is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://80202edb4f9f4745ad86fbf7ed63a624-zap0.vercel.app",
+    "splashImageUrl": "https://80202edb4f9f4745ad86fbf7ed63a624-zap0.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://80202edb4f9f4745ad86fbf7ed63a624-zap0.vercel.app/image.png",
+    "tagline": "CustomFit AI",
+    "screenshotUrls": [
+      "https://80202edb4f9f4745ad86fbf7ed63a624-zap0.vercel.app/screenshot.png",
+      "https://80202edb4f9f4745ad86fbf7ed63a624-zap0.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://80202edb4f9f4745ad86fbf7ed63a624-zap0.vercel.app/api/webhook"
+  }
+}
